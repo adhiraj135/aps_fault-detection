@@ -21,6 +21,6 @@ setup(
     author="inueron",
     author_email="adhiraj.singh483@gmail.com",
     packages=find_packages(),
-    install_requires=get_requirement(),
+    install_requires=get_requirements(),
 
 )
